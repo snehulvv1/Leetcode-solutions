@@ -9,5 +9,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0169-majority-element) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
