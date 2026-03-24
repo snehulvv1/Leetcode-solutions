@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0507-perfect-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/snehulvv1/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/snehulvv1/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Divide and Conquer
 |  |
@@ -34,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -54,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
