@@ -1,0 +1,13 @@
+/**
+ * @param {number[]} nums
+ * @param {number} original
+ * @return {number}
+ */
+var findFinalValue = function(nums, original) {
+   
+  while(nums.includes(original)){
+    original = 2*original
+  }
+    return original
+};
+console.log(findFinalValue([5,3,6,1,12]),3)
