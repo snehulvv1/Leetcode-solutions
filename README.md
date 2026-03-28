@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/snehulvv1/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/snehulvv1/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -77,5 +78,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/snehulvv1/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2129-capitalize-the-title](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2129-capitalize-the-title) |
 <!---LeetCode Topics End-->
