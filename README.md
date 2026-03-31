@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2540-minimum-common-value](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2540-minimum-common-value](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [2540-minimum-common-value](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -85,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/snehulvv1/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2129-capitalize-the-title](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2129-capitalize-the-title) |
+## Two Pointers
+|  |
+| ------- |
+| [2540-minimum-common-value](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
