@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0507-perfect-number) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/snehulvv1/Leetcode-solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/snehulvv1/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
