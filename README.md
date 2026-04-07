@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Simulation
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/snehulvv1/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/snehulvv1/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [2129-capitalize-the-title](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2129-capitalize-the-title) |
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/snehulvv1/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2540-minimum-common-value) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
