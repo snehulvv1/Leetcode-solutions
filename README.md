@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/snehulvv1/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/snehulvv1/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/snehulvv1/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/snehulvv1/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/snehulvv1/Leetcode-solutions/tree/master/1816-truncate-sentence) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2129-capitalize-the-title) |
 ## Two Pointers
 |  |
