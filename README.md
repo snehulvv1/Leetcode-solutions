@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2540-minimum-common-value](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/snehulvv1/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/snehulvv1/Leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Simulation
 |  |
 | ------- |
